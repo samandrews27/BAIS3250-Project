@@ -1,4 +1,8 @@
-# BAIS3250-A
+# Project - Data Wrangling
+
+## Purpose
+
+This repository provides a Python‐driven analysis of NCAA Division I men’s basketball (2013–2024), exploring decade‑long scoring and efficiency trends, conference‑ and region‑based playing styles, and the defining performance metrics of the sport’s most successful teams.
 
 ## Table of Contents
 | File | Description |
