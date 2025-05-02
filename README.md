@@ -11,3 +11,6 @@ This repository provides a Python‐driven analysis of NCAA Division I men’s 
 | Notebooks | Jupyter Notebook code includes: Inital Scraping |
 | Data | Contains csv files with Kaggle dataset, scraped dataset, and merged final dataset used for analysis |
 
+## Data Sources
+- [College Basketball Dataset on Kaggle](https://www.kaggle.com/datasets/andrewsundberg/college-basketball-dataset)  
+- [Division I Men’s Basketball Colleges (NCSA Sports)](https://www.ncsasports.org/mens-basketball/division-1-colleges)  
