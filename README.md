@@ -1,7 +1,7 @@
 # BAIS3250-A
 
 ## Table of Contents
-| Plugin | README |
+| Project Components | Link |
 | ------ | ------ |
 | Dropbox | [plugins/dropbox/README.md][PlDb] |
 | GitHub | [plugins/github/README.md][PlGh] |
