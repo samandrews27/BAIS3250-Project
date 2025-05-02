@@ -1,4 +1,6 @@
 # BAIS3250-A
+
+## Table of Contents
 | Plugin | README |
 | ------ | ------ |
 | Dropbox | [plugins/dropbox/README.md][PlDb] |
