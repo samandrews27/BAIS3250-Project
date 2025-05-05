@@ -1,0 +1,364 @@
+School,Type,City,State
+Abilene Christian University,Private,Abilene,Texas
+Alabama A&M University,Public,Normal,Alabama
+Alabama State University,Public,Montgomery,Alabama
+Alcorn State University,Public,Alcorn,Mississippi
+American University,Private,Washington,District Of Columbia
+Appalachian State University,Public,Boone,North Carolina
+Arizona State University,Public,Tempe,Arizona
+Arkansas State University,Public,Jonesboro,Arkansas
+Auburn University,Public,Auburn,Alabama
+Austin Peay State University,Public,Clarksville,Tennessee
+Ball State University,Public,Muncie,Indiana
+Baylor University,Private,Waco,Texas
+Bellarmine University,Private,Louisville,Kentucky
+Belmont University,Private,Nashville,Tennessee
+Bethune-Cookman University,Private,Daytona Beach,Florida
+Boise State University,Public,Boise,Idaho
+Boston College,Private,Chestnut Hill,Massachusetts
+Boston University,Private,Boston,Massachusetts
+Bowling Green State University,Public,Bowling Green,Ohio
+Bradley University,Private,Peoria,Illinois
+Brigham Young University,Private,Provo,Utah
+Brown University,Private,Providence,Rhode Island
+Bryant University,Private,Smithfield,Rhode Island
+Bucknell University,Private,Lewisburg,Pennsylvania
+Butler University,Private,Indianapolis,Indiana
+California Baptist University,Private,Riverside,California
+California Polytechnic State University – San Luis Obispo,Public,San Luis Obispo,California
+California State University – Bakersfield,Public,Bakersfield,California
+California State University – Fresno,Public,Fresno,California
+California State University – Fullerton,Public,Fullerton,California
+California State University – Long Beach,Public,Long Beach,California
+California State University – Northridge,Public,Northridge,California
+California State University – Sacramento,Public,Sacramento,California
+Campbell University,Private,Buies Creek,North Carolina
+Canisius College,Private,Buffalo,New York
+Central Connecticut State University,Public,New Britain,Connecticut
+Central Michigan University,Public,Mount Pleasant,Michigan
+Charleston Southern University,Private,Charleston,South Carolina
+Chicago State University,Public,Chicago,Illinois
+Clemson University,Public,Clemson,South Carolina
+Cleveland State University,Public,Cleveland,Ohio
+Coastal Carolina University,Public,Conway,South Carolina
+Colgate University,Private,Hamilton,New York
+College of Charleston,Public,Charleston,South Carolina
+College of the Holy Cross,Private,Worcester,Massachusetts
+Colorado State University,Public,Fort Collins,Colorado
+Columbia University,Private,New York,New York
+Coppin State University,Public,Baltimore,Maryland
+Cornell University,Private,Ithaca,New York
+Creighton University,Private,Omaha,Nebraska
+Dartmouth College,Private,Hanover,New Hampshire
+Davidson College,Private,Davidson,North Carolina
+Delaware State University,Public,Dover,Delaware
+DePaul University,Private,Chicago,Illinois
+Drake University,Private,Des Moines,Iowa
+Drexel University,Private,Philadelphia,Pennsylvania
+Duke University,Private,Durham,North Carolina
+Duquesne University,Private,Pittsburgh,Pennsylvania
+East Carolina University,Public,Greenville,North Carolina
+East Tennessee State University,Public,Johnson City,Tennessee
+Eastern Illinois University,Public,Charleston,Illinois
+Eastern Kentucky University,Public,Richmond,Kentucky
+Eastern Michigan University,Public,Ypsilanti,Michigan
+Eastern Washington University,Public,Cheney,Washington
+Elon University,Private,Elon,North Carolina
+Fairfield University,Private,Fairfield,Connecticut
+Fairleigh Dickinson University,Private,Teaneck,New Jersey
+Florida A&M University,Public,Tallahassee,Florida
+Florida Atlantic University,Public,Boca Raton,Florida
+Florida Gulf Coast University,Public,Fort Myers,Florida
+Florida International University,Public,Miami,Florida
+Florida State University,Public,Tallahassee,Florida
+Fordham University,Private,Bronx,New York
+Furman University,Private,Greenville,South Carolina
+Gardner-Webb University,Private,Boiling Springs,North Carolina
+George Mason University,Public,Fairfax,Virginia
+George Washington University,Private,Washington,District Of Columbia
+Georgetown University,Private,Washington,District Of Columbia
+Georgia Southern University,Public,Statesboro,Georgia
+Georgia State University,Public,Atlanta,Georgia
+Georgia Tech,Public,Atlanta,Georgia
+Gonzaga University,Private,Spokane,Washington
+Grambling State University,Public,Grambling,Louisiana
+Grand Canyon University,Private,Phoenix,Arizona
+Hamline University,Public,Saint Paul,Minnesota
+Hampton University,Private,Hampton,Virginia
+Harvard University,Private,Cambridge,Massachusetts
+High Point University,Private,High Point,North Carolina
+Hofstra University,Private,Hempstead,New York
+Houston Christian University,Private,Houston,Texas
+Howard University,Private,Washington,District Of Columbia
+Idaho State University,Public,Pocatello,Idaho
+Illinois State University,Public,Normal,Illinois
+Indiana State University,Public,Terre Haute,Indiana
+Indiana University,Public,Bloomington,Indiana
+Indiana University-Purdue University – Indianapolis (IUPUI),Public,Indianapolis,Indiana
+Iona University,Private,New Rochelle,New York
+Iowa State University,Public,Ames,Iowa
+Jackson State University,Public,Jackson,Mississippi
+Jacksonville State University,Public,Jacksonville,Alabama
+Jacksonville University,Private,Jacksonville,Florida
+James Madison University,Public,Harrisonburg,Virginia
+Kansas State University,Public,Manhattan,Kansas
+Kennesaw State University,Public,Kennesaw,Georgia
+Kent State University,Public,Kent,Ohio
+La Salle University,Private,Philadelphia,Pennsylvania
+Lafayette College,Private,Easton,Pennsylvania
+Lamar University,Public,Beaumont,Texas
+Lehigh University,Private,Bethlehem,Pennsylvania
+Liberty University,Private,Lynchburg,Virginia
+Lindenwood University,Private,Saint Charles,Missouri
+Lipscomb University,Private,Nashville,Tennessee
+Long Island University,Private,Long Island,New York
+Longwood University,Public,Farmville,Virginia
+Louisiana State University (LSU),Public,Baton Rouge,Louisiana
+Louisiana Tech University,Public,Ruston,Louisiana
+Loyola Marymount University,Private,Los Angeles,California
+Loyola University Chicago,Private,Chicago,Illinois
+Loyola University Maryland,Private,Baltimore,Maryland
+Manhattan College,Private,Riverdale,New York
+Marist College,Private,Poughkeepsie,New York
+Marquette University,Private,Milwaukee,Wisconsin
+Marshall University,Public,Huntington,West Virginia
+McNeese State University,Public,Lake Charles,Louisiana
+Mercer University,Private,Macon,Georgia
+Merrimack College,Private,North Andover,Massachusetts
+Miami University,Public,Oxford,Ohio
+Michigan State University,Public,East Lansing,Michigan
+Middle Tennessee State University,Public,Murfreesboro,Tennessee
+Mississippi State University,Public,Mississippi State,Mississippi
+Mississippi Valley State University,Public,Itta Bena,Mississippi
+Missouri State University,Public,Springfield,Missouri
+Monmouth University,Private,West Long Branch,New Jersey
+Montana State University,Public,Bozeman,Montana
+Morehead State University,Public,Morehead,Kentucky
+Morgan State University,Public,Baltimore,Maryland
+Mount St. Mary's University,Private,Emmitsburg,Maryland
+Murray State University,Public,Murray,Kentucky
+New Jersey Institute of Technology,Public,Newark,New Jersey
+New Mexico State University,Public,Las Cruces,New Mexico
+Niagara University,Private,Niagara University,New York
+Nicholls State University,Public,Thibodaux,Louisiana
+Norfolk State University,Public,Norfolk,Virginia
+North Carolina A&T State University,Public,Greensboro,North Carolina
+North Carolina Central University,Public,Durham,North Carolina
+North Carolina State University,Public,Raleigh,North Carolina
+North Dakota State University,Public,Fargo,North Dakota
+Northeastern University,Private,Boston,Massachusetts
+Northern Arizona University,Public,Flagstaff,Arizona
+Northern Illinois University,Public,Dekalb,Illinois
+Northern Kentucky University,Public,Highland Heights,Kentucky
+Northwestern State University of Louisiana,Public,Natchitoches,Louisiana
+Northwestern University,Private,Evanston,Illinois
+Oakland University,Public,Rochester,Michigan
+Ohio State University,Public,Columbus,Ohio
+Ohio University,Public,Athens,Ohio
+Oklahoma State University,Public,Stillwater,Oklahoma
+Old Dominion University,Public,Norfolk,Virginia
+Oral Roberts University,Private,Tulsa,Oklahoma
+Oregon State University,Public,Corvallis,Oregon
+Penn State,Public,University Park,Pennsylvania
+Pepperdine University,Private,Malibu,California
+Portland State University,Public,Portland,Oregon
+Prairie View A & M University,Public,Prairie View,Texas
+Presbyterian College,Private,Clinton,South Carolina
+Princeton University,Private,Princeton,New Jersey
+Providence College,Private,Providence,Rhode Island
+Purdue University,Public,West Lafayette,Indiana
+Purdue University – Fort Wayne,Public,Fort Wayne,Indiana
+Queens University of Charlotte,Private,Charlotte,North Carolina
+Quinnipiac University,Private,Hamden,Connecticut
+Radford University,Public,Radford,Virginia
+Rice University,Private,Houston,Texas
+Rider University,Private,Lawrenceville,New Jersey
+Robert Morris University – Pennsylvania,Private,Moon Township,Pennsylvania
+Rutgers University,Public,Piscataway,New Jersey
+Sacred Heart University,Private,Fairfield,Connecticut
+Saint Francis University,Private,Loretto,Pennsylvania
+Saint Joseph's University,Private,Philadelphia,Pennsylvania
+Saint Louis University,Private,St. Louis,Missouri
+Saint Mary's College of California,Private,Moraga,California
+Saint Peter's University,Private,Jersey City,New Jersey
+Sam Houston State University,Public,Huntsville,Texas
+Samford University,Private,Birmingham,Alabama
+San Diego State University,Public,San Diego,California
+San Jose State University,Public,San Jose,California
+Santa Clara University,Private,Santa Clara,California
+Seattle University,Private,Seattle,Washington
+Seton Hall University,Private,South Orange,New Jersey
+Siena College,Private,Loudonville,New York
+South Carolina State University,Public,Orangeburg,South Carolina
+South Dakota State University,Public,Brookings,South Dakota
+Southeast Missouri State University,Public,Cape Girardeau,Missouri
+Southeastern Louisiana University,Public,Hammond,Louisiana
+Southern Illinois University Carbondale,Public,Carbondale,Illinois
+Southern Illinois University Edwardsville,Public,Edwardsville,Illinois
+Southern Methodist University – SMU,Private,Dallas,Texas
+Southern University & A&M College,Public,Baton Rouge,Louisiana
+Southern Utah University,Public,Cedar City,Utah
+St. Bonaventure University,Private,Saint Bonaventure,New York
+St. Francis College,Private,Brooklyn Heights,New York
+St. John's University – New York,Private,Queens,New York
+Stanford University,Private,Stanford,California
+Stephen F Austin State University,Public,Nacogdoches,Texas
+Stetson University,Private,Deland,Florida
+Stonehill College,Private,Easton,Massachusetts
+SUNY Binghamton University,Public,Vestal,New York
+SUNY Stony Brook University,Public,Stony Brook,New York
+SUNY University at Albany,Public,Albany,New York
+SUNY University at Buffalo,Public,Buffalo,New York
+Syracuse University,Private,Syracuse,New York
+Tarleton State University,Public,Stephenville,Texas
+Temple University,Public,Philadelphia,Pennsylvania
+Tennessee State University,Public,Nashville,Tennessee
+Texas A&M University,Public,College Station,Texas
+Texas A&M University – Commerce,Public,Commerce,Texas
+Texas A&M University – Corpus Christi,Public,Corpus Christi,Texas
+Texas Christian University,Private,Fort Worth,Texas
+Texas Southern University,Public,Houston,Texas
+Texas State University,Public,San Marcos,Texas
+Texas Tech University,Public,Lubbock,Texas
+The Citadel,Public,Charleston,South Carolina
+Towson University,Public,Towson,Maryland
+Troy University,Public,Troy,Alabama
+Tulane University,Private,New Orleans,Louisiana
+United States Air Force Academy,Public,Usafa,Colorado
+United States Military Academy,Public,West Point,New York
+United States Naval Academy,Public,Annapolis,Maryland
+University of Akron,Public,Akron,Ohio
+University of Alabama,Public,Tuscaloosa,Alabama
+University of Alabama – Birmingham,Public,Birmingham,Alabama
+University of Arizona,Public,Tucson,Arizona
+University of Arkansas,Public,Fayetteville,Arkansas
+University of Arkansas at Little Rock,Public,Little Rock,Arkansas
+University of Arkansas at Pine Bluff,Public,Pine Bluff,Arkansas
+University of California – Berkeley,Public,Berkeley,California
+University of California – Davis,Public,Davis,California
+University of California – Irvine,Public,Irvine,California
+University of California – Los Angeles – UCLA,Public,Los Angeles,California
+University of California – Riverside,Public,Riverside,California
+University of California – San Diego,Public,La Jolla,California
+University of California – Santa Barbara,Public,Santa Barbara,California
+University of Central Arkansas,Public,Conway,Arkansas
+University of Central Florida,Public,Orlando,Florida
+University of Central Florida,Public,Orlando,Florida
+University of Cincinnati,Public,Cincinnati,Ohio
+University of Colorado – Boulder,Public,Boulder,Colorado
+University of Connecticut,Public,Storrs,Connecticut
+University of Dayton,Private,Dayton,Ohio
+University of Delaware,Public,Newark,Delaware
+University of Denver,Private,Denver,Colorado
+University of Detroit Mercy,Private,Detroit,Michigan
+University of Evansville,Private,Evansville,Indiana
+University of Florida,Public,Gainesville,Florida
+University of Georgia,Public,Athens,Georgia
+University of Hawaii at Manoa,Public,Honolulu,Hawaii
+University of Houston,Public,Houston,Texas
+University of Idaho,Public,Moscow,Idaho
+University of Illinois,Public,Champaign,Illinois
+University of Illinois at Chicago,Public,Chicago,Illinois
+University of Iowa,Public,Iowa City,Iowa
+University of Kansas,Public,Lawrence,Kansas
+University of Kentucky,Public,Lexington,Kentucky
+University of Louisiana,Public,Lafayette,Louisiana
+University of Louisiana – Monroe,Public,Monroe,Louisiana
+University of Louisville,Public,Louisville,Kentucky
+University of Maine,Public,Orono,Maine
+University of Maryland,Public,College Park,Maryland
+University of Maryland – Baltimore County,Public,Baltimore,Maryland
+University of Maryland Eastern Shore,Public,Princess Anne,Maryland
+University of Massachusetts – Amherst,Public,Amherst,Massachusetts
+University of Massachusetts – Lowell,Public,Lowell,Massachusetts
+University of Memphis,Public,Memphis,Tennessee
+University of Miami,Private,Coral Gables,Florida
+University of Michigan,Public,Ann Arbor,Michigan
+University of Minnesota,Public,Minneapolis,Minnesota
+University of Mississippi,Public,University,Mississippi
+University of Missouri,Public,Columbia,Missouri
+University of Missouri – Kansas City,Public,Kansas City,Missouri
+University of Montana,Public,Missoula,Montana
+University of Nebraska,Public,Lincoln,Nebraska
+University of Nebraska at Omaha,Public,Omaha,Nebraska
+University of Nevada – Las Vegas,Public,Las Vegas,Nevada
+University of Nevada – Reno,Public,Reno,Nevada
+University of New Hampshire,Public,Durham,New Hampshire
+University of New Mexico,Public,Albuquerque,New Mexico
+University of New Orleans,Public,New Orleans,Louisiana
+University of North Alabama,Public,Florence,Alabama
+University of North Carolina – Greensboro,Public,Greensboro,North Carolina
+University of North Carolina – Wilmington,Public,Wilmington,North Carolina
+University of North Carolina Asheville,Public,Asheville,North Carolina
+University of North Carolina at Chapel Hill,Public,Chapel Hill,North Carolina
+University of North Carolina at Charlotte,Public,Charlotte,North Carolina
+University of North Dakota,Public,Grand Forks,North Dakota
+University of North Florida,Public,Jacksonville,Florida
+University of North Texas,Public,Denton,Texas
+University of Northern Colorado,Public,Greeley,Colorado
+University of Northern Iowa,Public,Cedar Falls,Iowa
+University of Notre Dame,Private,Notre Dame,Indiana
+University of Oklahoma,Public,Norman,Oklahoma
+University of Oregon,Public,Eugene,Oregon
+University of Pennsylvania – Penn,Private,Philadelphia,Pennsylvania
+University of Pittsburgh,Public,Pittsburgh,Pennsylvania
+University of Portland,Private,Portland,Oregon
+University of Rhode Island,Public,Kingston,Rhode Island
+University of Richmond,Private,Virginia,
+University of San Diego,Private,San Diego,California
+University of San Francisco,Private,San Francisco,California
+University of South Alabama,Public,Mobile,Alabama
+University of South Carolina,Public,Columbia,South Carolina
+University of South Carolina – Upstate,Public,Spartanburg,South Carolina
+University of South Dakota,Public,Vermillion,South Dakota
+University of South Florida,Public,Tampa,Florida
+University of Southern California,Private,Los Angeles,California
+University of Southern Mississippi,Public,Hattiesburg,Mississippi
+University of St. Thomas – Minnesota,Private,Saint Paul,Minnesota
+University of Tennessee,Public,Knoxville,Tennessee
+University of Tennessee – Chattanooga,Public,Chattanooga,Tennessee
+University of Tennessee – Martin,Public,Martin,Tennessee
+University of Texas – Arlington,Public,Arlington,Texas
+University of Texas – Arlington,Public,Arlington,Texas
+University of Texas – Austin,Public,Austin,Texas
+University of Texas – El Paso,Public,El Paso,Texas
+University of Texas – Rio Grande Valley,Public,Edinburg,Texas
+University of Texas – San Antonio,Public,San Antonio,Texas
+University of the Incarnate Word,Private,San Antonio,Texas
+University of the Pacific,Private,Stockton,California
+University of Toledo,Public,Toledo,Ohio
+University of Tulsa,Private,Tulsa,Oklahoma
+University of Utah,Public,Salt Lake City,Utah
+University of Vermont,Public,Burlington,Vermont
+University of Virginia,Public,Charlottesville,Virginia
+University of Washington,Public,Seattle,Washington
+University of Wisconsin,Public,Madison,Wisconsin
+University of Wisconsin – Green Bay,Public,Green Bay,Wisconsin
+University of Wisconsin – Milwaukee,Public,Milwaukee,Wisconsin
+University of Wyoming,Public,Laramie,Wyoming
+Utah State University,Public,Logan,Utah
+Utah Tech University (Formerly Dixie State University),Public,Saint George,Utah
+Utah Valley University,Public,Orem,Utah
+Valparaiso University,Private,Valparaiso,Indiana
+Vanderbilt University,Private,Nashville,Tennessee
+Villanova University,Private,Villanova,Pennsylvania
+Virginia Commonwealth University,Public,Richmond,Virginia
+Virginia Military Institute – VMI,Public,Lexington,Virginia
+Virginia Tech,Public,Blacksburg,Virginia
+Wagner College,Private,Staten Island,New York
+Wake Forest University,Private,Winston-Salem,North Carolina
+Washington State University,Public,Pullman,Washington
+Weber State University,Public,Ogden,Utah
+West Virginia University,Public,Morgantown,West Virginia
+Western Carolina University,Public,Cullowhee,North Carolina
+Western Illinois University,Public,Macomb,Illinois
+Western Kentucky University,Public,Bowling Green,Kentucky
+Western Michigan University,Public,Kalamazoo,Michigan
+Wichita State University,Public,Wichita,Kansas
+William & Mary,Public,Williamsburg,Virginia
+Winthrop University,Public,Rock Hill,South Carolina
+Wofford College,Private,Spartanburg,South Carolina
+Wright State University,Public,Dayton,Ohio
+Xavier University,Private,Cincinnati,Ohio
+Yale University,Private,New Haven,Connecticut
+Youngstown State University,Public,Youngstown,Ohio
