@@ -1,3 +1,5 @@
+## Final Integrated Data Dictionary
+
 | Field       | Type    | Description                                                     |
 |-------------|---------|-----------------------------------------------------------------|
 | Team        | Text    | College name                                                    |
