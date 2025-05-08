@@ -12,7 +12,7 @@ This folder contains all Jupyter Notebooks used to complete any and all analysis
 | Comparison of Top Teams’ Styles of Play | Compares and contrasts the most successful teams’ pace, shot distribution, and efficiency | [Project Q3.ipynb](Notebooks/Project Q3.ipynb)|
 
 
-[intial scraping]: <https://github.com/samandrews27/BAIS3250-Project/blob/main/Notebooks/initial_scraping_w_dataset.ipynb>
+[intial scraping]: https://github.com/samandrews27/BAIS3250-Project/blob/main/Notebooks/initial_scraping_w_dataset.ipynb
 [Q1]: <https://github.com/samandrews27/BAIS3250-Project/blob/main/Notebooks/Project%20Q1.ipynb>
 [Q2]: <
 [Q3]: <
