@@ -11,7 +11,7 @@ This repository provides a Python‐driven analysis of NCAA Division I men’s 
 | [Notebooks](/Notebooks) | Jupyter Notebook code includes: Inital Scraping & Analysis for each of the 3 research questions |
 | [Data](/Data) | Contains csv files with Kaggle dataset, scraped dataset, and merged final dataset used for analysis |
 | [Analysis](/Analysis) | Contains all graphs and images output by jupyter notebooks for analysis |
-| [Final Report](Final_Report.pdf) | Final written report containing breakdown of intro, data cleaning, merging, and all analysis | 
+| [Final Report](Final%20Project%20Report.pdf) | Final written report containing breakdown of intro, data cleaning, merging, and all analysis | 
 
 ## Data Sources
 - [College Basketball Dataset on Kaggle](https://www.kaggle.com/datasets/andrewsundberg/college-basketball-dataset)  
